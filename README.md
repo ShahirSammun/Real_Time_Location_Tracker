@@ -1,4 +1,4 @@
-Screenshot of Real_Time_Location_Tracking App
+Screenshot of Real-Time Location Tracking App
 
 ![Screenshot_20230901_220445](https://github.com/ShahirSammun/Real_Time_Location_Tracker/assets/135459672/75e96cc9-52ad-4130-a0d1-99a36f363955)
 
