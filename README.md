@@ -1,16 +1,10 @@
-# mobile_application1
+Screenshot of Real_Time_Location_Tracking App
 
-A new Flutter project.
+![Screenshot_20230901_221021](https://github.com/ShahirSammun/Real_Time_Location_Tracker/assets/135459672/88be4360-c290-466c-b8f7-4c68925ec1fe)
 
-## Getting Started
+![Screenshot_20230901_223512](https://github.com/ShahirSammun/Real_Time_Location_Tracker/assets/135459672/ae851dd1-aada-4e03-848a-629db99d2089)
 
-This project is a starting point for a Flutter application.
+![Screenshot_20230901_223526](https://github.com/ShahirSammun/Real_Time_Location_Tracker/assets/135459672/bddeb317-c309-42f0-b43e-58a04712591e)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
